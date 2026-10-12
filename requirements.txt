@@ -1,0 +1,6 @@
+# Pyrogram is pinned to its latest stable release; PyMongo's async client avoids
+# Motor (deprecated) and supports Python 3.11+. dnspython enables mongodb+srv.
+Pyrogram==2.0.106
+pymongo==4.13.2
+dnspython==2.9.0
+python-dotenv==1.1.1
